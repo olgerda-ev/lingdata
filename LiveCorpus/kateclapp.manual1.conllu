@@ -412,7 +412,7 @@
 409	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@ert1993f#@ert1993f#1699.052#1699.298
 410	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1699.298#1699.604
 411	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1699.604#1699.661
-412	блен	блин	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1699.661#1699.941
+412	блен	блин	INTJ	_	_	_	_	_	words@ert1993f#@ert1993f#1699.661#1699.941
 413	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1699.941#1700.451
 414	камон	камон	NOUN	_	Foreign=Yes	_	_	_	words@ert1993f#@ert1993f#1700.451#1700.999
 415	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1700.999#1701.232
