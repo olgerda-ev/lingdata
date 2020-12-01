@@ -210,7 +210,7 @@
 207	/	/	PUNCT	_	_	_	_	_	iau1978m-words#iau1978m#1309.962#1310.06
 208	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	iau1978m-words#iau1978m#1310.462#1310.736
 209	делаете	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	iau1978m-words#iau1978m#1310.736#1311.01
-210	#нрзб#	#нрзб#	X	_	Foreign=Yes	_	_	_	iau1978m-words#iau1978m#1311.01#1311.284
+210	#нрзб#	#нрзб#	X	_	_	_	_	_	iau1978m-words#iau1978m#1311.01#1311.284
 211	?	?	PUNCT	_	_	_	_	_	iau1978m-words#iau1978m#1311.284#1311.558
 212	вот	вот	PART	_	_	_	_	_	iau1978m-words#iau1978m#1311.558#1311.832
 213	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	iau1978m-words#iau1978m#1311.832#1312.106
